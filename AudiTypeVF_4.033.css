@@ -1,0 +1,10 @@
+/* AudiTypeVF_4.033 */
+@font-face {
+	font-family: 'AudiTypeVF_4.033';
+	src:
+		url('https://sysubrc.github.io/AudiTypeVF_4.033.woff') format('woff'),
+		url('https://sysubrc.github.io/AudiTypeVF_4.033.woff2') format('woff2'),
+		url('https://sysubrc.github.io/AudiTypeVF_4.033.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}

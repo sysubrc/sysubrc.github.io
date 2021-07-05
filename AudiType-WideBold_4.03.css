@@ -1,0 +1,10 @@
+/* AudiType-WideBold_4.03 */
+@font-face {
+	font-family: 'AudiType-WideBold_4.03';
+	src:
+		url('https://sysubrc.github.io/AudiType-WideBold_4.03.woff') format('woff'),
+		url('https://sysubrc.github.io/AudiType-WideBold_4.03.woff2') format('woff2'),
+		url('https://sysubrc.github.io/AudiType-WideBold_4.03.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
